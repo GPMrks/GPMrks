@@ -1,5 +1,6 @@
 # Olá! Sou Guilherme Marques
 
+- ⌨️ Sistemas de Informação
 - 🔭 Atualmente trabalho no TJMG no Centro de Tecnologia e Mídias Digitais ...
 - 🌱 Estudando o Bootcamp Java Developer da Digital Innovation One ...
 - 🚀 Sempre melhorar
