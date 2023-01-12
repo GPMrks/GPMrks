@@ -5,10 +5,14 @@
 - ☕ Java Developer
 - 🚀 Sempre melhorar
 
+<!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? -->
+
 <div align="center">
   <a href="https://github.com/GPMrks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPMrks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPMrks&layout=compact&langs_count=7&theme=radical"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPMrks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPMrks&layout=compact&langs_count=7&theme=radical"/> -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GPMrks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GPMrks&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GPMrks-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -22,8 +26,6 @@
   <img align="center" alt="GPMrks-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GPMrks-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="GPMrks-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          
-          
 </div>
   
   ##
