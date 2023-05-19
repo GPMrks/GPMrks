@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/GPMrks/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Developer;Always%20Improving;&font=Fira%20Code&center=true&width=440&height=45&color=059ccb&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Developer;Always%20Improving;&font=Fira%20Code&center=true&width=440&height=45&color=059ccb&vCenter=true&size=22"></a>
 </p>
 
 - ⌨️ Sistemas de Informação
