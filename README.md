@@ -31,22 +31,6 @@ Nos meus estudos pude desenvolver conhecimentos técnicos como:
 - Praticar princípios SOLID;
 - Praticar orquestração de containers com Docker;
 
-Competências e Habilidades
-- Lógicas de Programação;
-- Pensamento Computacional;
-- Java;
-- Angular;
-- Rest API;
-- Spring Boot;
-- Spring Data JPA;
-- Docker;
-- JavaScript | TypeScript;
-- HTML5;
-- CSS3;
-- PostgreSQL;
-- Git | GitHub;
-- Inglês;
-
 <hr>
 
 🛠️ **Techs:**
