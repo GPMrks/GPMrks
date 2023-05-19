@@ -1,8 +1,16 @@
 # Bem-vindo ao meu perfil!
 
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GPMrks&color=blue" alt="Profile views" /> </p>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/xGuiilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Developer;Always%20Improving;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 - ⌨️ Sistemas de Informação
 - 🔭 Atualmente trabalho no TJMG no Centro de Tecnologia e Mídias Digitais
-- ☕ Java Developer
+- ☕ Back-end Developer
 - 🚀 Sempre melhorar
 
 Sou Guilherme Marques, Técnico em Informática pelo COTEMIG e estudante de Sistemas de Informação pela Universidade FUMEC com diversos cursos relacionados a área como Java Developer, Fundamentos de Arquitetura de Software, SQL para Desenvolvedores e Desenvolvimento de Testes Unitários.
