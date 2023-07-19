@@ -37,6 +37,8 @@ Nos meus estudos pude desenvolver conhecimentos técnicos como:
 
 - ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=c92123)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=671473)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet&logoColor=0cbfff)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=43853d)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791&color=05122A)&nbsp;
