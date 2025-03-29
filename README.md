@@ -16,7 +16,6 @@
 
 ## 🔗 **Connect with me:**
  
-<a href="https://www.instagram.com/guilherme_mrks/" target="_blank" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=e4405f&color=05122A)</a>
 <a href="mailto:guilhermepereiramarques@hotmail.com" target="_blank" target="_blank">![Hotmail](https://img.shields.io/badge/-Hotmail-05122A?style=flat&logo=microsoft-outlook&logoColor=0078d4&color=05122A)</a>
 <a href="https://www.linkedin.com/in/guilherme-p-marques/" target="_blank" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn&logoColor=0077b5&color=05122A)</a>
 
