@@ -21,7 +21,7 @@
 
 ## 📝 **About:**
 
-Analista de Sistemas em formação, graduando em Sistemas de Informação pela Universidade FUMEC e Técnico em Informática pelo COTEMIG com diversos cursos relacionados a área como Java Developer, Fundamentos de Arquitetura de Software, SQL para Desenvolvedores, Desenvolvimento de Testes Unitários, entre outros.
+Bacharel em Sistemas de Informação pela Universidade FUMEC e Técnico em Informática pelo COTEMIG com diversos cursos relacionados a área como Java Developer, Fundamentos de Arquitetura de Software, SQL para Desenvolvedores, Desenvolvimento de Testes Unitários, entre outros.
 
 Em meus estudos busco desenvolver meus hard e soft skills, ampliando meus conhecimentos, conquistando novas habilidades e competências para me tornar cada vez mais completo, como profissional e como pessoa.
 
